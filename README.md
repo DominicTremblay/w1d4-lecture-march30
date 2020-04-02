@@ -60,5 +60,5 @@ const getCharacter = function() {
 We played with these files:
 
 - [first_class_objects.js](./first_class_objects.js)
-- [callaback.js](./callback.js)
+- [callback.js](./callback.js)
 - [movies.js](./movies.js)
